@@ -1,2 +1,2 @@
-# rsschool-cv
+MY CV
 My CV
